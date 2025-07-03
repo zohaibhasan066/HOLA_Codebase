@@ -153,29 +153,22 @@ This repository contains modular components for implementing and evaluating the 
 
 - **Zohaib Hasan Siddiqui**  
   *Jamia Hamdard, New Delhi, India*  
-  Lead Author · Model Implementation · Visualization & Documentation
 
 - **Jiechao Gao** ★  
   *Center for SDGC, Stanford University, California, USA*  
-  Research Advisor · Methodology Guidance
 
 - **Ebad Shabbir**  
   *DSEU-Okhla, New Delhi, India*  
-  Model Evaluation · Code Optimization
 
 - **Mohammad Anas Azeez**  
   *Jamia Hamdard, New Delhi, India*  
-  Dataset Processing · Experiment Design
 
 - **Rafiq Ali**  
   *DSEU-Okhla, New Delhi, India*  
-  Hardware Benchmarking · Ablation Analysis
 
 - **Gautam Siddharth Kashyap**  
   *Macquarie University, Sydney, Australia*  
-  Visualization · Data Analysis
 
 - **Usman Naseem**  
   *Macquarie University, Sydney, Australia*  
-  Result Interpretation · Cross-Domain Generalization
 
