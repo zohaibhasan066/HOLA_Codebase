@@ -149,26 +149,4 @@ This repository contains modular components for implementing and evaluating the 
   Provides the Low-Bitwidth (Lo-Bi) component for reducing model size and enabling inference on edge hardware like Jetson Nano or Raspberry Pi.
 
 
-  ## 👥 Contributors
-
-- **Zohaib Hasan Siddiqui**  
-  *Jamia Hamdard, New Delhi, India*  
-
-- **Jiechao Gao** ★  
-  *Center for SDGC, Stanford University, California, USA*  
-
-- **Ebad Shabbir**  
-  *DSEU-Okhla, New Delhi, India*  
-
-- **Mohammad Anas Azeez**  
-  *Jamia Hamdard, New Delhi, India*  
-
-- **Rafiq Ali**  
-  *DSEU-Okhla, New Delhi, India*  
-
-- **Gautam Siddharth Kashyap**  
-  *Macquarie University, Sydney, Australia*  
-
-- **Usman Naseem**  
-  *Macquarie University, Sydney, Australia*  
-
+  
